@@ -1,0 +1,48 @@
+/* animações */
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translatey(16px); /*Translado posição Y em 16px*/
+  }
+  to {
+    opacity: 1;
+    transform: translatey(0); /* translado movendo para baixo até 0px*/
+  }
+}
+
+ @keyframes right{
+   from{
+      transform: translatex(-100%);
+   }
+   to {
+      transform: translatex(0);
+   }
+
+ }
+
+ @keyframes appear{
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+ }
+
+.animate-up {
+  animation-name: up; /* chamo Up(@keyframes) e incluo evento para animações*/
+  animation-duration: 300ms; /*Unidade Medido em Ms(micro Segundos)*/
+  animation-fill-mode: backwards; /* matera as propriedades opacity/transform, fiquem no elemento aplicado */
+}
+
+.animate-right {
+  animation-name: right;
+  animation-duration: 300ms;
+}
+
+.animation-appear {
+  animation-name: appear;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards; 
+}
+

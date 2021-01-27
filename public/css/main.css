@@ -1,0 +1,29 @@
+/*css regra */
+* {
+  margin: 0; /*alinho as margins do corpo da pagina removendo barra status painel */
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+body {
+  height: 100vh; /* [vh]ocupo prechimento de toda pagina fracionando em 100 peços*/
+  color: white;
+  background: #EBF2F5;
+}
+
+:root {
+  font-size: 62.5%; /*equivalente a 10px - e defino para as fontes da pagina*/
+}
+
+body,
+input,
+button,
+textarea {
+  /*font-weight: 400;   
+ font-size: 18px;
+ line-height: 1;
+ font-family: 'Nunito', sans-serif; */
+  font: 400 1.8rem/1 "Nunito", sans-serif; /* (shorthand) - agrupo e sobreescrevo as anteriores acima*/
+  /* [sans-serif]-são fonte não serifadas, sendo fontes mais lisas. */
+}
+
