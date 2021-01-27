@@ -91,7 +91,7 @@
 
 ```sh
 # Clonar o repósitorio
-  $ git clone https://github.com/alxlima/happy.git
+  $ git clone https://github.com/alxlima/Happy.git
 ```
 
 ### Passo 2️⃣ : Configurando o Projeto:
@@ -146,7 +146,7 @@ Para executar o **Server**, utilize:
 ## 📁 Como Baixar o Projeto
 ```bash
   # Clonar o repósitorio
-  $ git clone https://github.com/alxlima/happy.git
+  $ git clone https://github.com/alxlima/Happy.git
   
   # Entrar no diretório
   $ cd c:/nlw
