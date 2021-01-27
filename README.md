@@ -6,7 +6,7 @@
   <a href="#-Tecnologias-Utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -17,18 +17,17 @@
 
 <br>
 
-<div align="center">
-<!-- <img src="https://github.com//Proffy/blob/master/nlw2.svg" width="250px" height="auto"> -->
-<img src="prints/laptop-happy.png" width="250px" height="auto">
-</div>
+<p align="center">
+  <img alt="Happy" src="prints/laptop-happy.png" width="100%">
+</p>
 
 # Indice
 - [Sobre](#-Sobre)
 - [Projeto](#-Projeto)
 - [Layout](#-Layout)
 - [Desafio](#-Desafio) 
-- [Licença](#-Licença)
-- [Instruções](#-Instruções)
+- [Licença](#-licença)
+- [Instruções](#-Instruçoes)
 - [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 - [Como Baixar o Projeto](#-Como-Baixar-o-Projeto)
 
@@ -47,6 +46,21 @@
 
 
 ---
+
+## 💻  **Telas**
+
+<div align="center">
+<img src="prints/00.gif" width="250px" height="auto">
+<img src="prints/01.gif" width="250px" height="auto">
+<img src="prints/02.gif" width="250px" height="auto">
+<img src="prints/03.gif" width="250px" height="auto">
+<img src="prints/04.gif" width="250px" height="auto">
+<img src="prints/05.gif" width="250px" height="auto">
+</div>
+<br>
+
+---
+
 ## 🔖 Layout
 
 ##### Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
@@ -127,21 +141,6 @@ Para executar o **Server**, utilize:
 # Para iniciar o Servidor da aplicação
  npm run dev
 ```
-
-
-## 💻 **Prints**
-
-<div align="center">
-<img src="prints/00.gif" width="250px" height="auto">
-<img src="prints/01.gif" width="250px" height="auto">
-<img src="prints/02.gif" width="250px" height="auto">
-<img src="prints/03.gif" width="250px" height="auto">
-<img src="prints/04.gif" width="250px" height="auto">
-<img src="prints/05.gif" width="250px" height="auto">
-</div>
-<br>
-
----
 
 ## 📁 Como Baixar o Projeto
 ```bash
